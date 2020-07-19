@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "firstName": "Dejvid",
+    "lastName": "Hajyzlhov",
+    "email": "david.hajzlhov@seznam.cz",
+    "role": "Admin",
+    "company": "Pražská plynárenská a.s.",
+    "lastActivity": "2019-07-04T13:33:03.969Z"
+  },
+
+  {
+    "id": 2,
+    "firstName": "Mič",
+    "lastName": "Bijukenenen",
+    "email": "mic@bijukenenen.cz",
+    "role": "Vendor",
+    "company": "GIBS",
+    "lastActivity": "2019-07-04T13:33:03.969Z"
+  },
+  {
+    "id": 3,
+    "firstName": "Čak",
+    "lastName": "Noris",
+    "email": "cak@noris.cz",
+    "role": "Bůh",
+    "company": "asdasd",
+    "lastActivity": "2019-07-04T13:33:03.969Z"
+  }
+]

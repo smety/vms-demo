@@ -1,0 +1,12 @@
+{
+  "posts": [
+    { "id": 1, "title": "Tomas Smetka", "author": "rulez" },
+    { "id": 2, "title": "Martin Krizan", "author": "bitching" },
+    { "id": 3, "title": "Simon Raichl", "author": "***" },
+    { "id": 4, "title": "Marek Teresak", "author": "HO" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],  
+  "profile": { "name": "typicode" }
+}

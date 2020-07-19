@@ -1,0 +1,354 @@
+[
+  {
+    "id": 1,
+    "name": "Pilulka Distribuce s.r.o.",
+    "contactName": "Michal Hanček",
+    "email": "hanacek@pilulka.cz",
+    "phoneNumber": 888999000,
+    "saleManager": "Tomáš Slezák"
+  },
+  {
+    "id": 2,
+    "name": "CoPharm",
+    "contactName": "Pavel Novotný",
+    "email": "novotny@pilulka.cz",
+    "phoneNumber": 333444999,
+    "saleManager": "Tomáš Pola"
+  },
+  {
+    "id": 3,
+    "name": "Nutriční terapeut s.r.o.",
+    "contactName": "Miloš Zeman",
+    "email": "zeman@nutricniradce.cz",
+    "phoneNumber": 6669999666,
+    "saleManager": "Ovčáček"
+  },
+  {
+    "id": 4,
+    "name": "Agrofert a.s.",
+    "contactName": "Andrej Babiš",
+    "email": "babis@nekradu.cz",
+    "phoneNumber": 88877799,
+    "saleManager": "Mrtev"
+  },
+  {
+    "id": 4,
+    "name": "Agrofert a.s.",
+    "contactName": "Andrej Babiš",
+    "email": "babis@nekradu.cz",
+    "phoneNumber": 88877799,
+    "saleManager": "Mrtev"
+  },
+  {
+    "id": 4,
+    "name": "Agrofert a.s.",
+    "contactName": "Andrej Babiš",
+    "email": "babis@nekradu.cz",
+    "phoneNumber": 88877799,
+    "saleManager": "Mrtev"
+  },
+  {
+    "id": 4,
+    "name": "Agrofert a.s.",
+    "contactName": "Andrej Babiš",
+    "email": "babis@nekradu.cz",
+    "phoneNumber": 88877799,
+    "saleManager": "Mrtev"
+  },
+  {
+    "id": 4,
+    "name": "Agrofert a.s.",
+    "contactName": "Andrej Babiš",
+    "email": "babis@nekradu.cz",
+    "phoneNumber": 88877799,
+    "saleManager": "Mrtev"
+  },
+  {
+    "id": 4,
+    "name": "Agrofert a.s.",
+    "contactName": "Andrej Babiš",
+    "email": "babis@nekradu.cz",
+    "phoneNumber": 88877799,
+    "saleManager": "Mrtev"
+  },
+  {
+    "id": 4,
+    "name": "Agrofert a.s.",
+    "contactName": "Andrej Babiš",
+    "email": "babis@nekradu.cz",
+    "phoneNumber": 88877799,
+    "saleManager": "Mrtev"
+  },
+  {
+    "id": 4,
+    "name": "Agrofert a.s.",
+    "contactName": "Andrej Babiš",
+    "email": "babis@nekradu.cz",
+    "phoneNumber": 88877799,
+    "saleManager": "Mrtev"
+  },
+  {
+    "id": 4,
+    "name": "Agrofert a.s.",
+    "contactName": "Andrej Babiš",
+    "email": "babis@nekradu.cz",
+    "phoneNumber": 88877799,
+    "saleManager": "Mrtev"
+  },
+  {
+    "id": 4,
+    "name": "Agrofert a.s.",
+    "contactName": "Andrej Babiš",
+    "email": "babis@nekradu.cz",
+    "phoneNumber": 88877799,
+    "saleManager": "Mrtev"
+  },
+  {
+    "id": 4,
+    "name": "Agrofert a.s.",
+    "contactName": "Andrej Babiš",
+    "email": "babis@nekradu.cz",
+    "phoneNumber": 88877799,
+    "saleManager": "Mrtev"
+  },
+  {
+    "id": 4,
+    "name": "Agrofert a.s.",
+    "contactName": "Andrej Babiš",
+    "email": "babis@nekradu.cz",
+    "phoneNumber": 88877799,
+    "saleManager": "Mrtev"
+  },
+  {
+    "id": 4,
+    "name": "Agrofert a.s.",
+    "contactName": "Andrej Babiš",
+    "email": "babis@nekradu.cz",
+    "phoneNumber": 88877799,
+    "saleManager": "Mrtev"
+  },
+  {
+    "id": 4,
+    "name": "Agrofert a.s.",
+    "contactName": "Andrej Babiš",
+    "email": "babis@nekradu.cz",
+    "phoneNumber": 88877799,
+    "saleManager": "Mrtev"
+  },
+  {
+    "id": 4,
+    "name": "Agrofert a.s.",
+    "contactName": "Andrej Babiš",
+    "email": "babis@nekradu.cz",
+    "phoneNumber": 88877799,
+    "saleManager": "Mrtev"
+  },
+  {
+    "id": 4,
+    "name": "Agrofert a.s.",
+    "contactName": "Andrej Babiš",
+    "email": "babis@nekradu.cz",
+    "phoneNumber": 88877799,
+    "saleManager": "Mrtev"
+  },
+  {
+    "id": 4,
+    "name": "Agrofert a.s.",
+    "contactName": "Andrej Babiš",
+    "email": "babis@nekradu.cz",
+    "phoneNumber": 88877799,
+    "saleManager": "Mrtev"
+  },
+  {
+    "id": 4,
+    "name": "Agrofert a.s.",
+    "contactName": "Andrej Babiš",
+    "email": "babis@nekradu.cz",
+    "phoneNumber": 88877799,
+    "saleManager": "Mrtev"
+  },
+  {
+    "id": 4,
+    "name": "Agrofert a.s.",
+    "contactName": "Andrej Babiš",
+    "email": "babis@nekradu.cz",
+    "phoneNumber": 88877799,
+    "saleManager": "Mrtev"
+  },
+  {
+    "id": 4,
+    "name": "Agrofert a.s.",
+    "contactName": "Andrej Babiš",
+    "email": "babis@nekradu.cz",
+    "phoneNumber": 88877799,
+    "saleManager": "Mrtev"
+  },
+  {
+    "id": 4,
+    "name": "Agrofert a.s.",
+    "contactName": "Andrej Babiš",
+    "email": "babis@nekradu.cz",
+    "phoneNumber": 88877799,
+    "saleManager": "Mrtev"
+  },
+  {
+    "id": 4,
+    "name": "Agrofert a.s.",
+    "contactName": "Andrej Babiš",
+    "email": "babis@nekradu.cz",
+    "phoneNumber": 88877799,
+    "saleManager": "Mrtev"
+  },
+  {
+    "id": 4,
+    "name": "Agrofert a.s.",
+    "contactName": "Andrej Babiš",
+    "email": "babis@nekradu.cz",
+    "phoneNumber": 88877799,
+    "saleManager": "Mrtev"
+  },
+  {
+    "id": 4,
+    "name": "Agrofert a.s.",
+    "contactName": "Andrej Babiš",
+    "email": "babis@nekradu.cz",
+    "phoneNumber": 88877799,
+    "saleManager": "Mrtev"
+  },
+  {
+    "id": 4,
+    "name": "Agrofert a.s.",
+    "contactName": "Andrej Babiš",
+    "email": "babis@nekradu.cz",
+    "phoneNumber": 88877799,
+    "saleManager": "Mrtev"
+  },
+  {
+    "id": 4,
+    "name": "Agrofert a.s.",
+    "contactName": "Andrej Babiš",
+    "email": "babis@nekradu.cz",
+    "phoneNumber": 88877799,
+    "saleManager": "Mrtev"
+  },
+  {
+    "id": 4,
+    "name": "Agrofert a.s.",
+    "contactName": "Andrej Babiš",
+    "email": "babis@nekradu.cz",
+    "phoneNumber": 88877799,
+    "saleManager": "Mrtev"
+  },
+  {
+    "id": 4,
+    "name": "Agrofert a.s.",
+    "contactName": "Andrej Babiš",
+    "email": "babis@nekradu.cz",
+    "phoneNumber": 88877799,
+    "saleManager": "Mrtev"
+  },
+  {
+    "id": 4,
+    "name": "Agrofert a.s.",
+    "contactName": "Andrej Babiš",
+    "email": "babis@nekradu.cz",
+    "phoneNumber": 88877799,
+    "saleManager": "Mrtev"
+  },
+  {
+    "id": 4,
+    "name": "Agrofert a.s.",
+    "contactName": "Andrej Babiš",
+    "email": "babis@nekradu.cz",
+    "phoneNumber": 88877799,
+    "saleManager": "Mrtev"
+  },
+  {
+    "id": 4,
+    "name": "Agrofert a.s.",
+    "contactName": "Andrej Babiš",
+    "email": "babis@nekradu.cz",
+    "phoneNumber": 88877799,
+    "saleManager": "Mrtev"
+  },
+  {
+    "id": 4,
+    "name": "Agrofert a.s.",
+    "contactName": "Andrej Babiš",
+    "email": "babis@nekradu.cz",
+    "phoneNumber": 88877799,
+    "saleManager": "Mrtev"
+  },
+  {
+    "id": 4,
+    "name": "Agrofert a.s.",
+    "contactName": "Andrej Babiš",
+    "email": "babis@nekradu.cz",
+    "phoneNumber": 88877799,
+    "saleManager": "Mrtev"
+  },
+  {
+    "id": 4,
+    "name": "Agrofert a.s.",
+    "contactName": "Andrej Babiš",
+    "email": "babis@nekradu.cz",
+    "phoneNumber": 88877799,
+    "saleManager": "Mrtev"
+  },
+  {
+    "id": 4,
+    "name": "Agrofert a.s.",
+    "contactName": "Andrej Babiš",
+    "email": "babis@nekradu.cz",
+    "phoneNumber": 88877799,
+    "saleManager": "Mrtev"
+  },
+  {
+    "id": 4,
+    "name": "Agrofert a.s.",
+    "contactName": "Andrej Babiš",
+    "email": "babis@nekradu.cz",
+    "phoneNumber": 88877799,
+    "saleManager": "Mrtev"
+  },
+  {
+    "id": 4,
+    "name": "Agrofert a.s.",
+    "contactName": "Andrej Babiš",
+    "email": "babis@nekradu.cz",
+    "phoneNumber": 88877799,
+    "saleManager": "Mrtev"
+  },
+  {
+    "id": 4,
+    "name": "Agrofert a.s.",
+    "contactName": "Andrej Babiš",
+    "email": "babis@nekradu.cz",
+    "phoneNumber": 88877799,
+    "saleManager": "Mrtev"
+  },
+  {
+    "id": 4,
+    "name": "Agrofert a.s.",
+    "contactName": "Andrej Babiš",
+    "email": "babis@nekradu.cz",
+    "phoneNumber": 88877799,
+    "saleManager": "Mrtev"
+  },
+  {
+    "id": 4,
+    "name": "Agrofert a.s.",
+    "contactName": "Andrej Babiš",
+    "email": "babis@nekradu.cz",
+    "phoneNumber": 88877799,
+    "saleManager": "Mrtev"
+  },
+  {
+    "id": 4,
+    "name": "Agrofert a.s.",
+    "contactName": "Andrej Babiš",
+    "email": "babis@nekradu.cz",
+    "phoneNumber": 88877799,
+    "saleManager": "Mrtev"
+  }
+]

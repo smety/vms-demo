@@ -1,0 +1,133 @@
+$primary: #ec008c;
+$body-bg: #ebedef;
+$border-color: #e1e1e1;
+$nav-tabs-border-color: #e1e1e1;
+$btn-border-radius-sm: 10px;
+$btn-font-weight: 600;
+$input-border-color: #cdcdcd;
+$input-padding-y: 0.4rem;
+$spacer: 1.5rem;
+$sidebar-nav-dropdown-bg: #505050;
+$simple-line-font-path: '~simple-line-icons/fonts/';
+$sidebar-nav-link-padding-y: 0.50rem;
+$sidebar-nav-link-hover-bg: transparent;
+$sidebar-width: 240px;
+$navbar-brand-width: 180px;
+$btn-padding-x: 1.75rem;
+
+$h1-font-size: 20px;
+
+$modal-backdrop-bg: rgba(0, 0, 0, 0.75);
+$modal-header-border-color: #e6e6e6;
+
+
+$pagination-border-color: #b7b7b7;
+$pagination-active-bg: #b7b7b7;
+$pagination-color: black;
+
+
+@import "variables";
+@import "custom/sidebar";
+@import "core-ui/coreui";
+
+//@import "~@coreui/coreui-pro/scss/themes/dark/coreui-dark";
+@import "custom";
+@import "ie-fix";
+@import '~simple-line-icons/scss/simple-line-icons.scss';
+
+
+@import "custom/font-size";
+@import "vendors/select2/core";
+
+.VueTables__search-field label,
+.VueTables__limit-field label {
+  display: inline-block;
+}
+
+aside {
+  padding: 20px;
+  background: white;
+  margin: 30px;
+  border: 1px solid #e1e1e1;
+  border-radius: 4px;
+}
+
+
+.breadcrumb {
+  box-shadow: 0px 0 4px 0 #bbbbbb;
+}
+
+.breadcrumb-item a {
+  color: $gray-600;
+}
+
+.sidebar-nav {
+  background: #696969;
+}
+
+
+.text-divider {
+  margin: 2em 0;
+  line-height: 0;
+  text-align: center;
+}
+
+.text-divider span {
+  background-color: #fff;
+  padding: 1em;
+  color: $gray-500;
+}
+
+.text-divider::before {
+  content: " ";
+  display: block;
+  border-bottom: 1px solid $gray-100;
+}
+
+
+.shadow {
+  box-shadow: 0px 0 4px 0 #bbbbbb;
+}
+
+.btn-upr {
+  text-transform: uppercase;
+}
+
+
+.page-account {
+  max-width: 700px;
+  padding: 0 0 0 20px;
+}
+
+
+.invalid-feedback {
+  span {
+    display: block;
+  }
+}
+
+code {
+  position: fixed;
+  display: block;
+  padding: 15px;
+  margin: 20px 0;
+  right: 0;
+  bottom: -20px;
+
+  width: calc(100% - 250px);
+  border: 1px solid rgba(0, 0, 0, 0.10);
+  background: $white;
+  z-index: 100;
+  color: black;
+
+
+  &:before {
+    content: 'JSON schéma dat';
+    position: absolute;
+    right: 0;
+    top: 0;
+    background: black;
+    padding: 10px;
+    color: white;
+  }
+}

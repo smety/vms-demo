@@ -1,0 +1,12 @@
+.sidebar {
+  .sidebar-nav {
+    height: calc(100vh - 50px);
+    overflow: hidden;
+    overflow-y: scroll;
+  }
+
+  a.nav-link:hover {
+    background: $primary !important;
+  }
+}
+

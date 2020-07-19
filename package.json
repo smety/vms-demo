@@ -1,0 +1,82 @@
+{
+  "name": "vms.frontend",
+  "version": "1.0.0",
+  "description": "UI for Pilulka VMS",
+  "author": "Tomas Smetka &lt;tomas.smetka@pilulka.cz&gt;",
+  "private": true,
+  "scripts": {
+    "dev": "NUXT_ENV_MODE=dev nuxt",
+    "build": "NODE_ENV=production nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "test": "jest",
+    "lint": "eslint --ext .js,.vue  --ignore-path .prettierignore .",
+    "lintfix": "eslint --fix --ext .js,.vue --ignore-path .prettierignore .",
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "kill:all": "pgrep -f node | xargs kill -9"
+  },
+  "dependencies": {
+    "@babel/plugin-proposal-optional-chaining": "^7.8.3",
+    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/dotenv": "^1.4.0",
+    "@nuxtjs/proxy": "^1.3.3",
+    "@nuxtjs/pwa": "^3.0.0-0",
+    "@nuxtjs/sentry": "^3.0.1",
+    "axios": "^0.19.0",
+    "bootstrap": "^4.4.1",
+    "bootstrap-vue": "^2.1.0",
+    "cookie-universal-nuxt": "^2.1.0",
+    "font-awesome": "^4.7.0",
+    "jwt-decode": "^2.2.0",
+    "moment": "^2.24.0",
+    "nuxt": "^2.11.0",
+    "nuxt-i18n": "^6.4.1",
+    "simple-line-icons": "2.4.1",
+    "v-click-outside": "^3.0.0",
+    "vee-validate": "^3.2.0",
+    "vue": "^2.6.10",
+    "vue-property-decorator": "^8.3.0",
+    "vue-search-select": "^2.9.3",
+    "vue-sorted-table": "^1.2.0",
+    "vue-tables-2": "^1.6.20",
+    "vuelidate": "^0.7.5",
+    "vuex-persistedstate": "^2.7.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/toast": "^3.3.0",
+    "@vue/test-utils": "^1.0.0-beta.27",
+    "babel-eslint": "^10.0.3",
+    "babel-jest": "^24.1.0",
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^4.3.0",
+    "eslint-loader": "^3.0.3",
+    "eslint-plugin-prettier": "^3.1.2",
+    "eslint-plugin-vue": "^6.1.2",
+    "jest": "^24.1.0",
+    "node-sass": "^4.13.0",
+    "prettier": "^1.19.1",
+    "sass-loader": "^8.0.0",
+    "vue-jest": "^4.0.0-0",
+    "webpack-sentry-plugin": "^2.0.2"
+  },
+  "eslintConfig": {
+    "root": true,
+    "extends": [
+      "plugin:vue/essential",
+      "plugin:prettier/recommended",
+      "eslint:recommended"
+    ]
+  },
+  "engines": {
+    "node": ">12.13.0"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{js,vue}": "npm run lintfix"
+  }
+}
